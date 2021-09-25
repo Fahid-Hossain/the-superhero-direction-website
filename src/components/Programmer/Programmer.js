@@ -12,7 +12,7 @@ const Programmer = (props) => {
                     <h5 className ="card-title"> {name}</h5>
                     <p className ="card-text ms-5 fst-italic">{work}</p>
                     <p className ="card-text"><span className="info-title">Age</span>: {age}</p>
-                    <p className ="card-text"><span className="info-title">Salary</span>: {salary}</p>
+                    <p className ="card-text"><span className="info-title">Salary</span>: <i className="fas fa-comment-dollar"></i> {salary}</p>
                     <p className ="card-text"><span className="info-title">Country</span>: {destination}</p>
                     </div>
                     <button onClick={()=>props.addToCartHandler(programmer)} type="button" className="btn btn-secondary w-75 ms-auto mb-2"><i className="fas fa-cart-plus"></i> add to cart</button>
