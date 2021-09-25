@@ -1,0 +1,14 @@
+.programmer-info img{
+    width: 200px;
+    border-radius: 100px;
+}
+.info-title{
+    font-weight: 500;
+}
+.font-icon{
+    position: absolute;
+    top: 220px;
+    right: -3px;
+    display: flex;
+    flex-direction: column;
+}
