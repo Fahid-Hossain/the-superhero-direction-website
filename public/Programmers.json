@@ -90,10 +90,30 @@
 
     },
     {
+        "name":"Salman Tushi",
+        "work":"c#-Developer",
+        "salary":31500,
+        "id":111,
+        "age":26,
+        "destination":"USA",
+        "img":"https://media.istockphoto.com/photos/programmer-working-with-program-code-picture-id1075599562?k=20&m=1075599562&s=612x612&w=0&h=cDFY2kKyhFzSNNlDQsaxoekIW0v7iyaMBkxp11Fz33U="
+
+    },
+    {
+        "name":"Kamruzzaman Akand",
+        "work":"go-Developer",
+        "salary":30000,
+        "id":112,
+        "age":25,
+        "destination":"Endland",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDv8y-xrw3BjnP0cwSdXeeFV184vVPxYWF2w&usqp=CAU"
+
+    },
+    {
         "name":"Fahid Hossain",
         "work":"react-Developer",
         "salary":24500,
-        "id":111,
+        "id":113,
         "age":23,
         "destination":"Bangladesh",
         "img":"https://images.unsplash.com/photo-1534665482403-a909d0d97c67?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1lcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"

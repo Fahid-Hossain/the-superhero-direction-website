@@ -1,0 +1,15 @@
+li {
+    border: 1px solid royalblue;
+    list-style: none;
+    padding-left: 25px;
+    border-radius: 5px;
+    margin-top: 4px;
+    font-weight: 500;
+}
+
+li img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}

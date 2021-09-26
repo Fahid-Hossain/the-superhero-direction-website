@@ -24,7 +24,7 @@ const Main = () => {
     }
     return (
         <div className="mt-5">
-            <p className="text-center fs-4"><i>Get Better Experience, Have a Relax</i></p>
+            <p className="text-center fs-4"><i>You Will Get Better Experience, Have a Relax see you ...</i></p>
             <div className="container">
                 <div className="programmers_info row">
                     <div className="col-sm-8 border-end border-success">
