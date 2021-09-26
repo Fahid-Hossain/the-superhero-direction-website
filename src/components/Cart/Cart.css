@@ -1,12 +1,12 @@
 .cart-calc{
-    position:sticky;
+    /* position:sticky;
     top: 71px;
-    right: 5px;
+    right: 5px; */
     background-color: rgb(252, 246, 246);
     border-radius: 5px;
     padding: 9px;
 }
-.cart-programmer{
-    height: 250vh;
+/* .cart-programmer{
+    height: 150vh;
     
-}
+} */
