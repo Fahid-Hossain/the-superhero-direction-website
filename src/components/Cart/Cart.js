@@ -16,7 +16,7 @@ const Cart = (props) => {
             </div>
             <br />
             <div className="cart-programmer">
-                <h5 className="fst-italic">Programmers you Added({programmerCount.length})  <i class="fas fa-user-alt"></i> </h5><hr />
+                <h5 className="fst-italic">Programmers you Added({programmerCount.length})  <i className="fas fa-user-alt"></i> </h5><hr />
             {
                    programmerCount.map(programmer=> <CartProgrammer 
                     programmer={programmer}
